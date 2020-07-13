@@ -1,4 +1,3 @@
-# Design-Patterns
 
 # GIT Commands
 
